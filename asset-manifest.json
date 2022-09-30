@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Advait-04/notes-app/static/css/main.b799fe0f.css",
+    "main.js": "/Advait-04/notes-app/static/js/main.fd8861fb.js",
+    "index.html": "/Advait-04/notes-app/index.html",
+    "main.b799fe0f.css.map": "/Advait-04/notes-app/static/css/main.b799fe0f.css.map",
+    "main.fd8861fb.js.map": "/Advait-04/notes-app/static/js/main.fd8861fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b799fe0f.css",
+    "static/js/main.fd8861fb.js"
+  ]
+}
